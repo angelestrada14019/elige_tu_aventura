@@ -1,4 +1,4 @@
-import "../index.css";
+import "../style/index.css";
 import React from "react";
 function Historial({funcion,opcion,nombreId}) {
     return (  
